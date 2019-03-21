@@ -1,2 +1,20 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea/misc.xml
+/.idea
+/projectFilesBackup
+/camera/build
+.google/
+CONTRIB.md
+CONTRIBUTING.md
+LICENSE
+README.md
+Application/build
+/Application/build/
+Application/release/

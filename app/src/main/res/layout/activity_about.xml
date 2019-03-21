@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/options_background"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    tools:context=".AboutActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="20dp" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:src="@drawable/me" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/fb_eishon"
+            android:textColor="#EEEEEE"
+            android:textSize="30dp" />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="20dp" >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:src="@drawable/mehadi" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/fb_mehadi"
+            android:textColor="#EEEEEE"
+            android:textSize="30dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="144dp"
+            android:layout_height="144dp"
+            android:src="@drawable/lidam" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/fb_lidam"
+            android:textColor="#EEEEEE"
+            android:textSize="30dp" />
+</LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/follow_facebook" />
+
+</LinearLayout>

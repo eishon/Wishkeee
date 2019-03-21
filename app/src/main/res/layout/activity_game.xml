@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GameActivity" >
+
+    <eishon.wishkeee.GameSurfaceView
+        android:id="@+id/myGameView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="right"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/pauseButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/pause_button" />
+
+            <Button
+                android:id="@+id/restartButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/restart_button"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp" />
+
+            <Button
+                android:id="@+id/exitButton"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/exit_button"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_man"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="@drawable/btn_man" />
+    </LinearLayout>
+
+</FrameLayout>

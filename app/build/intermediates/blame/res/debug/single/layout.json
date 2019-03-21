@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_game.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\EISHON\\AndroidStudioProjects\\Wishkeee\\app\\src\\main\\res\\layout\\activity_about.xml"
+    }
+]
